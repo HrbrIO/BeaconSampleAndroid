@@ -12,6 +12,7 @@ This project uses/requires:
  - SDK Version API 23: Android 6.0 (Marshmallow)
  - Google Play Services
  - Maven/JitPack
+ - [Harbor Android Beacon](https://github.com/HrbrIO/HarborAndroidBeacon)
 
 If you haven't used Harbor before, welcome! You'll need to [Sign up for a Harbor account](https://www.hrbr.io/try-hrbr) first.
 
